@@ -22,7 +22,6 @@ he/she wishes to read book.If user is having any query then he/she can used mutl
 
 ## 📸 Screenshots
 
-||||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
 |![Assignment04-Java-output-(1)](https://user-images.githubusercontent.com/84228181/120882096-683e3c80-c58a-11eb-949d-0cc58e8cd97a.png)|
 ![Assignment04-Java-output-(2)](https://user-images.githubusercontent.com/84228181/120882098-6a080000-c58a-11eb-9433-e930869f2f65.png)|
