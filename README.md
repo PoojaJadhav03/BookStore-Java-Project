@@ -4,8 +4,8 @@ Online Book store is a java project which help to reduce the bridge between book
 as Database.
 
 # Modules 
-     - Admin
-     - User
+              1) Admin
+              2) User
   
 # Working 
 
